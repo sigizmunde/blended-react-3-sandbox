@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blended-react-3-sandbox/static/css/main.7acaea2f.css",
-    "main.js": "/blended-react-3-sandbox/static/js/main.ac7065bf.js",
+    "main.css": "/blended-react-3-sandbox/static/css/main.7e43d2a4.css",
+    "main.js": "/blended-react-3-sandbox/static/js/main.c8e9f832.js",
     "index.html": "/blended-react-3-sandbox/index.html",
-    "main.7acaea2f.css.map": "/blended-react-3-sandbox/static/css/main.7acaea2f.css.map",
-    "main.ac7065bf.js.map": "/blended-react-3-sandbox/static/js/main.ac7065bf.js.map"
+    "main.7e43d2a4.css.map": "/blended-react-3-sandbox/static/css/main.7e43d2a4.css.map",
+    "main.c8e9f832.js.map": "/blended-react-3-sandbox/static/js/main.c8e9f832.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.ac7065bf.js"
+    "static/css/main.7e43d2a4.css",
+    "static/js/main.c8e9f832.js"
   ]
 }
