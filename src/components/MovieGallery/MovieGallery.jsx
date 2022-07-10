@@ -1,10 +1,12 @@
+import css from './MovieGallery.module.css';
+
 const {
   default: MovieGalleryItem,
 } = require('components/MovieGalleryItem/MovieGalleryItem');
 
 const MovieGallery = ({ movieList }) => {
   return (
-    <ul>
+    <ul className={css.gallery}>
       {movieList.map(({ image, id, title, watched }) => {
         return (
           <MovieGalleryItem
