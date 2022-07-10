@@ -1,6 +1,12 @@
+import css from './Button.module.css';
+
 const Button = ({ caption, handleClick }) => {
   return (
-    <button type="button" onClick={handleClick}>
+    <button
+      type="button"
+      className={css['center-button']}
+      onClick={handleClick}
+    >
       {caption}
     </button>
   );
